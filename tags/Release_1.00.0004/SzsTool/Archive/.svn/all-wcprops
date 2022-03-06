@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/tags/Release_1.00.0004/SzsTool/Archive
+END
+SzsArchive.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4/tags/Release_1.00.0004/SzsTool/Archive/SzsArchive.cs
+END
+ArchiveEntry.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4/tags/Release_1.00.0004/SzsTool/Archive/ArchiveEntry.cs
+END
+ArchiveHeader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4/tags/Release_1.00.0004/SzsTool/Archive/ArchiveHeader.cs
+END
+ArchiveInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4/tags/Release_1.00.0004/SzsTool/Archive/ArchiveInfo.cs
+END

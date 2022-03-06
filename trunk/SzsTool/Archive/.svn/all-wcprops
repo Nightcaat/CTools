@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/7/trunk/SzsTool/Archive
+END
+ArchiveEntry.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/7/trunk/SzsTool/Archive/ArchiveEntry.cs
+END
+ArchiveHeader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/SzsTool/Archive/ArchiveHeader.cs
+END
+ArchiveInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/SzsTool/Archive/ArchiveInfo.cs
+END
+SzsArchive.cs
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/7/trunk/SzsTool/Archive/SzsArchive.cs
+END

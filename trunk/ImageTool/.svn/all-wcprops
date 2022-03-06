@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/8/trunk/ImageTool
+END
+ImageDataEditorControl.resx
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/8/trunk/ImageTool/ImageDataEditorControl.resx
+END
+FormReformatImageDialog.resx
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/8/trunk/ImageTool/FormReformatImageDialog.resx
+END
+ImageDataEditorControl.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/8/trunk/ImageTool/ImageDataEditorControl.Designer.cs
+END
+ImageDataEditorControl.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/8/trunk/ImageTool/ImageDataEditorControl.cs
+END
+FormReformatImageDialog.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/8/trunk/ImageTool/FormReformatImageDialog.Designer.cs
+END
+ImageDataFormat.cs
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/8/trunk/ImageTool/ImageDataFormat.cs
+END
+FormReformatImageDialog.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/8/trunk/ImageTool/FormReformatImageDialog.cs
+END
+Program.cs
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/8/trunk/ImageTool/Program.cs
+END
+ToolInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/8/trunk/ImageTool/ToolInfo.cs
+END
+ImageTool.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/8/trunk/ImageTool/ImageTool.csproj
+END
+ImageData.cs
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/8/trunk/ImageTool/ImageData.cs
+END

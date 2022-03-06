@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/tags/Release_1.00.0004/CToolsLibrary
+END
+FormAboutBox.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4/tags/Release_1.00.0004/CToolsLibrary/FormAboutBox.Designer.cs
+END
+FormAboutBox.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4/tags/Release_1.00.0004/CToolsLibrary/FormAboutBox.cs
+END
+ToolManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4/tags/Release_1.00.0004/CToolsLibrary/ToolManager.cs
+END
+EditorInstance.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4/tags/Release_1.00.0004/CToolsLibrary/EditorInstance.cs
+END
+NewFileForm.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/tags/Release_1.00.0004/CToolsLibrary/NewFileForm.Designer.cs
+END
+NewFileForm.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4/tags/Release_1.00.0004/CToolsLibrary/NewFileForm.cs
+END
+Tool.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/tags/Release_1.00.0004/CToolsLibrary/Tool.cs
+END
+app.config
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/tags/Release_1.00.0004/CToolsLibrary/app.config
+END
+CToolsLibrary.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4/tags/Release_1.00.0004/CToolsLibrary/CToolsLibrary.csproj
+END
+FormAboutBox.resx
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4/tags/Release_1.00.0004/CToolsLibrary/FormAboutBox.resx
+END
+FormWaiting.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/tags/Release_1.00.0004/CToolsLibrary/FormWaiting.Designer.cs
+END
+FormWaiting.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4/tags/Release_1.00.0004/CToolsLibrary/FormWaiting.cs
+END
+Editor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/tags/Release_1.00.0004/CToolsLibrary/Editor.cs
+END
+FileFormat.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/tags/Release_1.00.0004/CToolsLibrary/FileFormat.cs
+END
+ToolInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/tags/Release_1.00.0004/CToolsLibrary/ToolInfo.cs
+END
+NewFile.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/tags/Release_1.00.0004/CToolsLibrary/NewFile.cs
+END
+NewFileForm.resx
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4/tags/Release_1.00.0004/CToolsLibrary/NewFileForm.resx
+END
+EventArgs.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/tags/Release_1.00.0004/CToolsLibrary/EventArgs.cs
+END
+FormWaiting.resx
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4/tags/Release_1.00.0004/CToolsLibrary/FormWaiting.resx
+END

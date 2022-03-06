@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/tags/Release_1.00.0004/CToolsLibrary/HexEditor
+END
+GoToForm.resx
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/tags/Release_1.00.0004/CToolsLibrary/HexEditor/GoToForm.resx
+END
+GoToForm.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4/tags/Release_1.00.0004/CToolsLibrary/HexEditor/GoToForm.Designer.cs
+END
+HexEditorForm.resx
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4/tags/Release_1.00.0004/CToolsLibrary/HexEditor/HexEditorForm.resx
+END
+GoToForm.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4/tags/Release_1.00.0004/CToolsLibrary/HexEditor/GoToForm.cs
+END
+HexEditorForm.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4/tags/Release_1.00.0004/CToolsLibrary/HexEditor/HexEditorForm.Designer.cs
+END
+HexEditorForm.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4/tags/Release_1.00.0004/CToolsLibrary/HexEditor/HexEditorForm.cs
+END
+HexEditorInstance.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4/tags/Release_1.00.0004/CToolsLibrary/HexEditor/HexEditorInstance.cs
+END

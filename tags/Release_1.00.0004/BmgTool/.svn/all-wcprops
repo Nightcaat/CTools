@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/tags/Release_1.00.0004/BmgTool
+END
+FormOptions.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4/tags/Release_1.00.0004/BmgTool/FormOptions.Designer.cs
+END
+BmgHeader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/tags/Release_1.00.0004/BmgTool/BmgHeader.cs
+END
+FormOptions.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/tags/Release_1.00.0004/BmgTool/FormOptions.cs
+END
+app.config
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/tags/Release_1.00.0004/BmgTool/app.config
+END
+FormMain.resx
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/tags/Release_1.00.0004/BmgTool/FormMain.resx
+END
+BmgToolInstance.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/tags/Release_1.00.0004/BmgTool/BmgToolInstance.cs
+END
+ToolInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/tags/Release_1.00.0004/BmgTool/ToolInfo.cs
+END
+FormOptions.resx
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/tags/Release_1.00.0004/BmgTool/FormOptions.resx
+END
+BmgTool.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/tags/Release_1.00.0004/BmgTool/BmgTool.csproj
+END
+Icon32.ico
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/tags/Release_1.00.0004/BmgTool/Icon32.ico
+END
+BmgFile.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/tags/Release_1.00.0004/BmgTool/BmgFile.cs
+END
+Program.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/tags/Release_1.00.0004/BmgTool/Program.cs
+END
+FormMain.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4/tags/Release_1.00.0004/BmgTool/FormMain.Designer.cs
+END
+FormMain.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/tags/Release_1.00.0004/BmgTool/FormMain.cs
+END
+BmgMessage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/tags/Release_1.00.0004/BmgTool/BmgMessage.cs
+END

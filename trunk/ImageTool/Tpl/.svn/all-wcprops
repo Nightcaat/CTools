@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/8/trunk/ImageTool/Tpl
+END
+TplEditorForm.resx
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/8/trunk/ImageTool/Tpl/TplEditorForm.resx
+END
+TplHeader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/8/trunk/ImageTool/Tpl/TplHeader.cs
+END
+TplEditorForm.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/8/trunk/ImageTool/Tpl/TplEditorForm.Designer.cs
+END
+TplEditorForm.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/8/trunk/ImageTool/Tpl/TplEditorForm.cs
+END
+TplEditorInstance.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/8/trunk/ImageTool/Tpl/TplEditorInstance.cs
+END
+TplImage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/8/trunk/ImageTool/Tpl/TplImage.cs
+END

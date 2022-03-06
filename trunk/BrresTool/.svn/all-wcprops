@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/11/trunk/BrresTool
+END
+Mdl0ColourGroup.cs
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/7/trunk/BrresTool/Mdl0ColourGroup.cs
+END
+Mdl0Bone.cs
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/7/trunk/BrresTool/Mdl0Bone.cs
+END
+BrresToolInstance.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/7/trunk/BrresTool/BrresToolInstance.cs
+END
+BrresSection.cs
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/7/trunk/BrresTool/BrresSection.cs
+END
+Mdl0Polygon.cs
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/7/trunk/BrresTool/Mdl0Polygon.cs
+END
+Tex0Section.cs
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/11/trunk/BrresTool/Tex0Section.cs
+END
+Mdl0DrawList.cs
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/7/trunk/BrresTool/Mdl0DrawList.cs
+END
+BrresTool.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/7/trunk/BrresTool/BrresTool.csproj
+END
+Mdl0VertexGroup.cs
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/7/trunk/BrresTool/Mdl0VertexGroup.cs
+END
+FormMain.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/7/trunk/BrresTool/FormMain.Designer.cs
+END
+Program.cs
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/7/trunk/BrresTool/Program.cs
+END
+FormMain.cs
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/7/trunk/BrresTool/FormMain.cs
+END
+RootSection.cs
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/11/trunk/BrresTool/RootSection.cs
+END
+Mdl0Material.cs
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/7/trunk/BrresTool/Mdl0Material.cs
+END
+BrresFile.cs
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/7/trunk/BrresTool/BrresFile.cs
+END
+Mdl0TexturePointer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/7/trunk/BrresTool/Mdl0TexturePointer.cs
+END
+Mdl0Section.cs
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/7/trunk/BrresTool/Mdl0Section.cs
+END
+Mdl0NormalGroup.cs
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/7/trunk/BrresTool/Mdl0NormalGroup.cs
+END
+Tex0Image.cs
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/11/trunk/BrresTool/Tex0Image.cs
+END
+Mdl0Shader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/7/trunk/BrresTool/Mdl0Shader.cs
+END
+FormMain.resx
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/7/trunk/BrresTool/FormMain.resx
+END
+UnknownSection.cs
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/11/trunk/BrresTool/UnknownSection.cs
+END
+IndexGroup.cs
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/7/trunk/BrresTool/IndexGroup.cs
+END
+Mdl0UvGroup.cs
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/7/trunk/BrresTool/Mdl0UvGroup.cs
+END
+BrresHeader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/7/trunk/BrresTool/BrresHeader.cs
+END
+ToolInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/11/trunk/BrresTool/ToolInfo.cs
+END
+Pat0Section.cs
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/7/trunk/BrresTool/Pat0Section.cs
+END

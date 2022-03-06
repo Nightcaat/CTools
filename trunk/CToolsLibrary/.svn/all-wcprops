@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/11/trunk/CToolsLibrary
+END
+FormAboutBox.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/CToolsLibrary/FormAboutBox.Designer.cs
+END
+FormAboutBox.cs
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/7/trunk/CToolsLibrary/FormAboutBox.cs
+END
+ToolManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/7/trunk/CToolsLibrary/ToolManager.cs
+END
+EditorInstance.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/CToolsLibrary/EditorInstance.cs
+END
+NewFileForm.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3/trunk/CToolsLibrary/NewFileForm.Designer.cs
+END
+Tool.cs
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/trunk/CToolsLibrary/Tool.cs
+END
+NewFileForm.cs
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/CToolsLibrary/NewFileForm.cs
+END
+CToolsLibrary.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/11/trunk/CToolsLibrary/CToolsLibrary.csproj
+END
+FormAboutBox.resx
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/CToolsLibrary/FormAboutBox.resx
+END
+FormWaiting.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3/trunk/CToolsLibrary/FormWaiting.Designer.cs
+END
+FormWaiting.cs
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/CToolsLibrary/FormWaiting.cs
+END
+Editor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/7/trunk/CToolsLibrary/Editor.cs
+END
+FileFormat.cs
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/7/trunk/CToolsLibrary/FileFormat.cs
+END
+ToolInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/7/trunk/CToolsLibrary/ToolInfo.cs
+END
+NewFile.cs
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/CToolsLibrary/NewFile.cs
+END
+NewFileForm.resx
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/CToolsLibrary/NewFileForm.resx
+END
+EventArgs.cs
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/CToolsLibrary/EventArgs.cs
+END
+FormWaiting.resx
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/CToolsLibrary/FormWaiting.resx
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/10/trunk/BmgTool
+END
+FormMain.resx
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/7/trunk/BmgTool/FormMain.resx
+END
+BmgFile.cs
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/7/trunk/BmgTool/BmgFile.cs
+END
+Program.cs
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/7/trunk/BmgTool/Program.cs
+END
+FormMain.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/7/trunk/BmgTool/FormMain.Designer.cs
+END
+BmgToolInstance.cs
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/7/trunk/BmgTool/BmgToolInstance.cs
+END
+FormMain.cs
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/7/trunk/BmgTool/FormMain.cs
+END
+ToolInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/7/trunk/BmgTool/ToolInfo.cs
+END
+BmgMessage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/7/trunk/BmgTool/BmgMessage.cs
+END
+FormOptions.resx
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/BmgTool/FormOptions.resx
+END
+BmgTool.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/7/trunk/BmgTool/BmgTool.csproj
+END
+FormOptions.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/BmgTool/FormOptions.Designer.cs
+END
+BmgHeader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/3/trunk/BmgTool/BmgHeader.cs
+END
+FormOptions.cs
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/7/trunk/BmgTool/FormOptions.cs
+END

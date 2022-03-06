@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/tags/Release_1.00.0004/CToolsLibrary/System/IO
+END
+Yaz0Stream.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/tags/Release_1.00.0004/CToolsLibrary/System/IO/Yaz0Stream.cs
+END
+EndianBinaryWriter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4/tags/Release_1.00.0004/CToolsLibrary/System/IO/EndianBinaryWriter.cs
+END
+EndianBinaryReader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4/tags/Release_1.00.0004/CToolsLibrary/System/IO/EndianBinaryReader.cs
+END
+FileSize.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4/tags/Release_1.00.0004/CToolsLibrary/System/IO/FileSize.cs
+END

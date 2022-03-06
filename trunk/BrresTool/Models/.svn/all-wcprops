@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/7/trunk/BrresTool/Models
+END
+Material.cs
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/7/trunk/BrresTool/Models/Material.cs
+END
+Model.cs
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/7/trunk/BrresTool/Models/Model.cs
+END
+Bone.cs
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/7/trunk/BrresTool/Models/Bone.cs
+END
+Polygon.cs
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/7/trunk/BrresTool/Models/Polygon.cs
+END
+GraphicsData.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/7/trunk/BrresTool/Models/GraphicsData.cs
+END

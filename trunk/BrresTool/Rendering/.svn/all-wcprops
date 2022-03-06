@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/11/trunk/BrresTool/Rendering
+END
+ShaderResources.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/11/trunk/BrresTool/Rendering/ShaderResources.Designer.cs
+END
+NullRenderer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/11/trunk/BrresTool/Rendering/NullRenderer.cs
+END
+Renderer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/11/trunk/BrresTool/Rendering/Renderer.cs
+END
+DirectXRenderer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/11/trunk/BrresTool/Rendering/DirectXRenderer.cs
+END
+ShaderResources.resx
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/11/trunk/BrresTool/Rendering/ShaderResources.resx
+END
